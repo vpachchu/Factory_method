@@ -10,6 +10,5 @@ public class Main {
         System.out.println("Mother's Day Gift offer "+offer2);
         Offers offer3=GiftFactory.createOffer(OfferCode.ValentineDayGift);
         System.out.println("Valentine's Day Gift offer "+offer3);
-
     }
 }
